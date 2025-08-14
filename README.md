@@ -84,7 +84,7 @@ Key Steps:
 ### **Key Findings**
 
 Figures and summarized findings are presented in: 
-[Figures and Findings Presentation](Figures_Findings_Portfolio_GlobalFishingWatch_NdeyeBousso.pptx).
+[Figures and Findings Presentation](Figures_Findings_Portfolio_GlobalFishingWatch_NdeyeBousso.pdf).
 The same figures visualizations are also available on Tableau: 
 [View Tableau Visualizations](https://public.tableau.com/app/profile/ndeye.coumba.bousso/viz/Tableau_Visualizations_Portfolio_GlobalFishingWatch_NdeyeBousso ).
 
