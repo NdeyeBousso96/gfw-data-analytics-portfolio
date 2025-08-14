@@ -27,7 +27,7 @@ This portfolio explores Global Fishing Watch data to answer key questions, such 
 ### **Data Sources**
 
 •	**Global Fishing Watch** : Vessel activity and fishing hours (2020–2024)  
-*Global Fishing Watch. 2025. Global Apparent Fishing Effort Dataset, Version 3.0. doi:10.5281/zenodo.14982712*
+*[Global Fishing Watch](https://globalfishingwatch.org/ ). 2025. Global Apparent Fishing Effort Dataset, Version 3.0. doi:10.5281/zenodo.14982712*
 
 •	**Marine Regions** : Exclusive Economic Zones (EEZs) layers  
 *Flanders Marine Institute (2023). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 12. Available online at http://www.marineregions.org/ . https://doi.org/10.14284/632  (look up in IMIS)*
@@ -180,5 +180,3 @@ There are **no recorded data** in the Global Fishing Watch dataset for MPAs with
 ### **Acknowledgements**  
 
 This portfolio was supported by Global Fishing Watch for making their dataset publicly available, and by conversational AI tools (ChatGPT) for conceptualization, code review, and narrative guidance. All analysis, decisions, and interpretations were independently performed by the author.
-
-
