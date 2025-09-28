@@ -49,7 +49,9 @@ This portfolio explores Global Fishing Watch data to answer key questions, such 
 
 •	**PowerPoint** : Presentation of figures and insights
 
-•	**ChatGPT**: acting as a conversational AI, for conceptualization, coding assistance and narrative support. All analysis, decisions, and interpretations were my own.
+•	**ChatGPT**: Acting as a conversational AI, for conceptualization, coding assistance and narrative support. All analysis, decisions, and interpretations were my own.
+
+•	**NotebookLM**: Transforming written documents into podcasts and videos to enhance accessibility and storytelling.
 
 ### **Methodology**
 
